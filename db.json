@@ -1,64 +1,14 @@
 {
     "invoices": [
         {
-            "invoice_number": "170002",
-            "date_issued": "May 15, 2025",
-            "billed_to": "Test1"
-        },
-        {
-            "invoice_number": "170003",
-            "date_issued": "May 15, 2025",
-            "billed_to": "Test1"
-        },
-        {
-            "invoice_number": "170004",
-            "date_issued": "May 15, 2025",
-            "billed_to": "xyz"
-        },
-        {
-            "invoice_number": "170005",
-            "date_issued": "May 15, 2025",
-            "billed_to": "test"
-        },
-        {
-            "invoice_number": "170006",
-            "date_issued": "May 15, 2025",
-            "billed_to": "test"
-        },
-        {
-            "invoice_number": "170007",
-            "date_issued": "June 03, 2025",
-            "billed_to": "Test1"
-        },
-        {
-            "invoice_number": "170008",
-            "date_issued": "June 03, 2025",
-            "billed_to": "Test2"
-        },
-        {
-            "invoice_number": "170009",
-            "date_issued": null,
-            "billed_to": "Date Issued Due Date"
-        },
-        {
-            "invoice_number": "170010",
-            "date_issued": null,
-            "billed_to": "Date Issued Due Date"
-        },
-        {
-            "invoice_number": "2106",
-            "date_issued": null,
-            "billed_to": "Date Issued Due Date"
-        },
-        {
-            "invoice_number": "170888540",
-            "date_issued": "June 03, 2025",
-            "billed_to": "Test2"
-        },
-        {
-            "invoice_number": "170011",
-            "date_issued": "May 29, 2025",
-            "billed_to": "Test3"
+            "Invoice Date": "00/00/2051",
+            "Invoice Time": "00:00:00 PM",
+            "Invoice Number": "1-1111111",
+            "Sold To": "XYZ",
+            "Customer Number": "9999",
+            "Vehicle": "PPT",
+            "Clerk": "Test",
+            "Final Total": "00.99"
         }
     ]
 }
